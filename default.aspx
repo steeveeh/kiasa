@@ -6,7 +6,8 @@
 	<form id="form1" runat="server">
 	<div>
 
-	<%Response. Write( "Landing Page"); %>
+    <%Response. Write( "Landing Page"); %>
+    <%Response. Write( "Hellos!"); %>
 
 	</div>
 	</form>
